@@ -1,0 +1,9 @@
+{
+  "rules": {
+    "no-restricted-imports": [
+      "error", {
+        "patterns": ["organisms", "templates"]
+      }
+    ]
+  }
+}

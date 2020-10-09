@@ -1,0 +1,10 @@
+{
+  "extends": "react-app",
+  "parserOptions": {
+    "sourceType": "script"
+  },
+  "rules": {
+    "strict": ["error", "global"],
+    "quotes": ["error", "single"]
+  }
+}

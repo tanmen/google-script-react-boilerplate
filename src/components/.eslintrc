@@ -1,0 +1,5 @@
+{
+  "rules": {
+    "no-restricted-imports": ["error", "react-router-dom", "redux", "react-redux"]
+  }
+}

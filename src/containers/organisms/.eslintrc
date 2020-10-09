@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "no-restricted-imports": [
+      "error", {
+        "paths": ["react-router-dom"],
+        "patterns": ["components/templates"]
+      }
+    ]
+  }
+}
